@@ -1,0 +1,9 @@
+# Core scientific computing libraries
+numpy
+pandas
+scipy
+scikit-learn
+
+# Plotting libraries
+matplotlib
+plotly
